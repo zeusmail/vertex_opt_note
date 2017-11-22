@@ -1,0 +1,4 @@
+figures/*.pdf
+figures/*/*.pdf
+vertex_optimization.log
+vertex_optimization.aux
